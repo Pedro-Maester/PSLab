@@ -38,13 +38,18 @@ if(livro.is_open()){//confere se o item existe
 std::cout<<linha<<std::endl;
 //system("cmd/?");
 livro.close();
-system(linha.c_str());
+int ErrO;
+ErrO = system(linha.c_str());
+if(ErrO){
+std::cout<<"ERRO numero:"<<ErrO<<std::endl;
+system("pause");
+}
 ///system("pause");
 //fecha o item
 
 //system("cmd /c start" + item);//era pra executa o item
 }else{
-    std::cout<<"ERRO em abrir "<<linha<<std::endl;
+    std::cout<<"ERRO em abrir "<<linha<<"confira se o arquivo na lista tem o  endereco completo do arquivo que deseja abrir"<<std::endl;
     system("pause");
 }
 }else{
