@@ -1,0 +1,12 @@
+{
+    "Saudacoes":["oi","alo","ola","ei","eai","salve","prazer"],
+    "VerbosInformacionais":["chama","chamo","testar"],
+    "VerbosSertem":["eh","tem","ser"],
+    "PronomesPos":["meu","seu","sua"],
+    "PInterrogativos":["qual","quantos"],
+    "Artigos":["o","a"],
+    "PessoaisA":["me","te","se"],
+    "Pessoais":["eu","tu","voce"],
+    "Info":["nome","idade"]
+
+}
