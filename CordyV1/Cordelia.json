@@ -1,0 +1,14 @@
+{
+    "presente":{
+        "nome":"Cordelia",
+        "nascimento":"26/02/2021",
+        "profissão":"AI assistente",
+        "emoção":
+            {"Alegria":100,
+              "Tristeza":5,
+              "Raiva":0
+            }
+        
+
+    }
+}

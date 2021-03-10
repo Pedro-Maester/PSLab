@@ -1,0 +1,29 @@
+
+
+     Interjeições:[
+        Exemplo:[
+             key:[pessoa,tempo,PAlegria , PTristeza , PRaiva]
+        ]
+       
+
+     ]
+     "Adjetivo":[{
+        "Aparencia":[{"bonito":[]},{"bonita":[]},{"bela":[]},{"belo":[]},{"lindo":[]},{"linda":[]},{"gostoso":[]},{"gostosa":[]}],
+        "Tamanho":[{"grande":[]},{"pequeno":[]},{"curto":[]},{"longo":[]},{"comprido":[]},{"medio":[]},{"mediano":[]},{"gigante":[]},{"colossal":[]},{"mini":[]}],
+        "Inteligencia":[{"inteligente":[]},{"genial":[]},{"genio":[]},{"genia":[]},{"sabio":[]},{"sabia":[]},{"burra":[]},{"burro":[]},{"einstein":[]}],
+        "Personalidade":[{"gentil":[]},{"calmo":[]},{"calma":[]},{"alegre":[]},{"feliz":[]},{"carinhosa":[]},{"carinhoso":[]},{"cuidadosa":[]},{"cuidadoso":[]},{"mandona":[]},{"mandão":[]},{"sabichona":[]},{"sabichão":[]},{"chata":[]},{"chato":[]},{"idiota":[]},{"interessante":[]},{"incrivel":[]},{"impressionante":[]},{"divertido":[]},{"divertida":[]},{"legal":[]},{"foda":[]},{"forte":[]},{"fraco":[]},{"fraca":[]},{"lento":[]},{"lenta":[]},{"lerda":[]},{"lerdo":[]},{"demorado":[]},{"demorada":[]},{"rapida":[]},{"rapido":[]}],
+        "Ação":[{"foda":[]},{"ilegal":[]},{"interessante":[]},{"incrivel":[]},{"impressionante":[]},{"divertido":[]},{"divertida":[]},{"legal":[]},{"permitido":[]},{"permitida":[]},{"proibida":[]},{"proibido":[]},{"demorado":[]},{"demorada":[]}]
+        
+        
+        
+
+
+    }]
+    chamar
+    cham
+   presente  passado 
+    chamo    chamava
+    chamas   chamavas
+    chama    chamava
+    chamamos chamavamos
+    chamam   chamavam

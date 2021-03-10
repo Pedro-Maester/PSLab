@@ -1,0 +1,64 @@
+
+{
+    
+        "Saudacoes":{"oi":[1,0],"alo":[-2,0],"ola":[2,0],"ei":[-1,0],"eai":[-2,0],"salve":[-3,0],"prazer":[3,0]},
+        "Alivio":{"ufa":[],"ah":[],"uh":[],"uf":[],"puxa":[],"arre":[],"eh":[]},
+        "Estimulo":[{"coragem":[]},{"vamos":[]},{"força":[]},{"avante":[]},{"eia":[]},{"firme":[]},{"inteirinho":[]},{"bora":[]},{"animo":[]},{"adiante":[]},{"toca":[]},{"upa":[]}],
+        "Apelo":[{"ei":[]},{"oh":[]},{"psiu":[]},{"socorro":[]},{"ô":[]},{"alô":[]},{"olá":[]},{"eh":[]},{"psit":[]},{"misericórdia":[]}],
+        "Desejo":[{"oh":[]},{"tomara":[]},{"oxalá":[]},{"espero":[]},{"quisera":[]}],
+        "Dor":[{"ai":[]},{"ui":[]},{"oh":[]},{"argh":[]},{"ah":[]},{"oh":[]}],
+        "Dúvida":[{"hum":[]},{"hein":[]},{"hã":[]},{"que":[]},{"ue":[]},{"nani":[]}],
+        "Espanto":[{"eita":[]},{"ué":[]},{"oxente":[]},{"uai":[]},{"oh":[]},{"nossa":[]},{"virgem":[]},{"caramba":[]},{"xi":[]},{"ui":[]},{"poha":[]},{"nu":[]},{"incrivel":[]}],
+        "Impaciencia":[{"arre":[]},{"puxa":[]},{"ave":[]},{"demora":[]}],
+        "Silencio":[{"xiu":[]},{"psiu":[]},{"silêncio":[]},{"calado":[]},{"calada":[]},{"quieto":[]},{"quieta":[]}],
+        "Satisfação":[{"oba":[]},{"eba":[]},{"irra":[]},{"nice":[]},{"viva":[]},{"boa":[]},{"upa":[]},{"ah":[]},{"ae":[]},{"bem":[]},{"bom":[]}],
+        "Despedida":[{"tchau":[]},{"adeus":[]},{"até":[]},{"sayonara":[]}],
+        "Suspensão":[{"chega":[]},{"basta":[]},{"alto":[]},{"pare":[]}],
+        "Advertência":[{"cuidado":[]},{"olhe":[]},{"atenção":[]},{"fogo":[]},{"olha":[]},{"alto":[]},{"calma":[]},{"devagar":[]},{"sentido":[]},{"alerta":[]},{"vê":[]},{"volta ":[]}],
+        "Agradecimento":[{"graças":[]},{"obrigado":[]},{"agradecido":[]},{"agradecida":[]},{"valeu":[]}],
+        "Afugamento":[{"fora":[]},{"xô":[]},{"passa":[]},{"sai":[]},{"roda":[]},{"arreda":[]},{"rua":[]},{"vaza":[]}],
+        "Alegria":[{"ah":[]},{"eh":[]},{"oh":[]},{"oba":[]},{"eba":[]},{"viva":[]},{"ola":[]},{"eta":[]},{"eita":[]},{"eia":[]},{"uhu":[]}],
+        "Aplauso":[{"bem":[]},{"bravo":[]},{"bis":[]},{"isso":[]},{"parabens":[]},{"boa":[]},{"apoiado":[]},{"otimo":[]},{"viva":[]},{"fiufiu":[]},{"hup":[]},{"hurra":[]}],
+        "Chamamento":[{"alô":[]},{"ola":[]},{"hei":[]},{"psiu":[]},{"ô":[]},{"psit":[]},{"ó":[]}],
+        "Concordancia":[{"claro":[]},{"certo":[]},{"otimo":[]},{"então":[]},{"sim":[]},{"tá":[]},{"hã-hã":[]}],
+        "Contrariedade":[{"droga":[]},{"porcaria":[]},{"credo":[]}],
+        "Desculpa":[{"perdão":[]},{"opa":[]},{"desculpa":[]},{"desculpe":[]},{"sorry":[]}],
+        "Medo":[{"oh":[]},{"credo":[]},{"ui":[]},{"ai":[]},{"uh":[]},{"barbaridade":[]},{"socorro":[]},{"francamente":[]},{"medo":[]},{"jesus":[]},{"susto":[]}],
+        
+    
+    
+        "Relativos":[{"cujo":[]},{"cujos":[]},{"cuja":[]},{"cujas":[]},{"quem":[]},{"quanto":[]},{"quantos":[]},{"quantas":[]},{"onde":[]},{"que":[]}],
+        "Pessoais_reto":[{"eu":[]},{"tu":[]},{"ele":[]},{"ela":[]},{"nós":[]},{"lhes":[]},{"eles":[]},{"elas":[]}],
+        "Pessoais_Atono_No_prep":[{"me":[]},{"te":[]},{"lhe":[]},{"a":[]},{"o":[]},{"se":[]},{"lhes":[]},{"os":[]},{"as":[]}],
+        "Pessoais_Atono_prep":[{"mim":[]},{"comigo":[]},{"ti":[]},{"contigo":[]},{"ele":[]},{"ela":[]},{"si":[]},{"consigo":[]},{"nós":[]},{"conosco":[]},{"elas":[]},{"eles":[]}],
+        "Possessivos":[{"meu":[]},{"minha":[]},{"meus":[]},{"minhas":[]},{"teu":[]},{"tua":[]},{"teus":[]},{"tuas":[]},{"seu":[]},{"sua":[]},{"seus":[]},{"suas":[]},{"nosso":[]},{"nossa":[]},{"nossos":[]},{"nossas":[]},{"seu":[]},{"sua":[]},{"seus":[]},{"suas":[]},{"dele":[]},{"dela":[]},{"deles":[]},{"delas":[]}],
+         "Demonstrativos":[{"este":[]},{"esta":[]},{"estes":[]},{"estas":[]},{"isto":[]},{"esse":[]},{"essa":[]},{"esses":[]},{"essas":[]},{"isso":[]},{"aquele":[]},{"aquela":[]},{"aqueles":[]},{"aquelas":[]},{"aquilo":[]}],
+         "Tratamento":[{"senhor":[]},{"senhora":[]},{"senhorita":[]},{"senhores":[]},{"senhoras":[]},{"senhoritas":[]},{"sr":[]},{"sra":[]},{"srta":[]},{"você":[]},{"vocês":[]},{"vc":[]},{"vcs":[]}],
+         "Indefinidos":[{"algum":[]},{"nenhum":[]},{"muito":[]},{"pouco":[]},{"tanto":[]},{"todo":[]},{"outro":[]},{"alguns":[]},{"nenhuns":[]},{"muitos":[]},{"poucos":[]},{"tantos":[]},{"todos":[]},{"outros":[]},{"alguma":[]},{"nenhuma":[]},{"muita":[]},{"pouca":[]},{"tanta":[]},{"toda":[]},{"outra":[]},{"algumas":[]},{"nenhumas":[]},{"muitas":[]},{"poucas":[]},{"tantas":[]},{"todas":[]},{"outras":[]}],
+         "Interrogativos":[{"qual":[]},{"quais":[]},{"quanto":[]},{"quanta":[]},{"quantos":[]},{"quantas":[]},{"que":[]},{"quem":[]},{"onde":[]}],
+    
+    "Adverbios":{
+        "lugar":[{"longe":[]},{"perto":[]},{"dentro":[]},{"fora":[]},{"atrás":[]},{"aqui":[]},{"ali":[]},{"lá":[]}],
+        "tempo":[{"antes":[]},{"depois":[]},{"hoje":[]},{"ontem":[]},{"amanhã":[]},{"sempre":[]},{"nunca":[]},{"cedo":[]},{"tarde":[]}],
+        "modo":[{"rápido":[]},{"devagar":[]},{"bem":[]},{"mal":[]}],
+        "intesidade":[{"muito":[]},{"pouco":[]},{"bastante":[]},{"demais":[]},{"tanto":[]},{"tão":[]}],
+        "afirmação":[{"sim":[]},{"decerto":[]},{"certamente":[]},{"realmente":[]},{"positivo":[]},{"claro":[]}],
+        "negação":[{"não":[]},{"nem":[]},{"negativo":[]},{"nenhum":[]},{"jamais":[]},{"nunca":[]},{"nada":[]}],
+        "dúvida":[{"talvez":[]},{"quiça":[]},{"porventura":[]}],
+        "interrogativos":[{"onde":[]},{"quando":[]},{"como":[]},{"por que":[]}]
+
+    }
+    
+
+    ,
+    "Verbos":{
+        "funcao":{"testar":["teste()"],"printar":["print"]}
+  
+
+    }
+    
+}
+
+
+
+
